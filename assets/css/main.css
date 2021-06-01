@@ -2229,7 +2229,7 @@ input, select, textarea {
 			display: inline-block;
 			background: #4D8E58;
 			background-attachment: fixed;
-			background-image: url("images/bg.svg");
+			background-image: url("images/codeBG.jpg");
 			background-position: center center;
 			background-repeat: repeat;
 			border-radius: 0 0 0.5em 0.5em;
@@ -2326,7 +2326,7 @@ input, select, textarea {
 		position: relative;
 		background: #4D8E58;
 		background-attachment: fixed;
-		background-image: url("images/bg.svg");
+		background-image: url("images/codeBG.jpg");
 		background-position: center center;
 		background-repeat: repeat;
 		overflow: hidden;
@@ -2525,7 +2525,7 @@ input, select, textarea {
 		#featured .title span {
 			background: #4D8E58;
 			background-attachment: fixed;
-			background-image: url("images/bg.svg");
+			background-image: url("images/codeBG.jpg");
 			background-position: center center;
 			background-repeat: repeat;
 		}
